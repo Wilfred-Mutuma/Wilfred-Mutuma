@@ -1,16 +1,13 @@
-## Hi there 👋
+# Wilfred Mutuma 🚀
+Welcome to my GitHub profile!
 
-<!--
-**Wilfred-Mutuma/Wilfred-Mutuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links
+* 🌐 [Live Portfolio Page](https://github.io)
+* 📝 [Markdown Practice File](./markdown-practice.md)
+* 👥 Team Repository: *[Waiting for Classroom Assignment]*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Setup
+```text
+user.name=Wilfred Mutuma
+user.email=wilfredmtm@gmail.com
+```
