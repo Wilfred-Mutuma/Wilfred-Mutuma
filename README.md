@@ -13,7 +13,7 @@ user.name=Wilfred Mutuma
 user.email=wilfredmtm@gmail.com
 
 ## Links
-- [My Live Pages Site](https://github.com/Wilfred-Mutuma.github.io)
+- [My Live Pages Site](https://wilfred-mutuma.github.io/)
 - [Markdown Practice File](./markdown-practice.md)
 
 ## Week 0 Team
