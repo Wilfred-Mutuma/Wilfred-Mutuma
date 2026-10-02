@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Wilfred Mutuma
 - **GitHub:** [@Wilfred-Mutuma](https://github.com)
-- **Date:** October 2, 2026
+- **Date:** October 1, 2026
 
 ## Project Description
 This is my profile repository for Season 12. It serves as my developer identity and acts as the gateway for instructors to grade my weekly tasks.
