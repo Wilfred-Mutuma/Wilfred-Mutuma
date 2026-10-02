@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Wilfred Mutuma
 - **GitHub:** [@Wilfred-Mutuma](https://github.com)
-- **Date:** October 1, 2026
+- **Date:** October 2, 2026
 
 ## Project Description
 This is my profile repository for Season 12. It serves as my developer identity and acts as the gateway for instructors to grade my weekly tasks.
@@ -13,7 +13,7 @@ user.name=Wilfred Mutuma
 user.email=wilfredmtm@gmail.com
 
 ## Links
-- [My Live Pages Site](https://github.io)
+- [My Live Pages Site](https://github.com/Wilfred-Mutuma.github.io)
 - [Markdown Practice File](./markdown-practice.md)
 
 ## Week 0 Team
