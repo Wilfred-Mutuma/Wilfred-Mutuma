@@ -1,4 +1,4 @@
-# Week 0: Git, GitHub & Your Developer Identity
+# Week 0: Git, GitHub & Developer Identity
 
 ## Author
 - **Name:** Wilfred Mutuma
