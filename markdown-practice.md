@@ -1,20 +1,45 @@
-# Week 0: Git, GitHub & Your Developer Identity
-## Author
-- **Name:** Wilfred Mutuma
-- **GitHub:** [@Wilfred-Mutuma](https://github.com)
-- **Date:** October 1, 2026
+# Markdown Practice
 
-## Project Description
-This is my profile repository for Season 12. It serves as my developer identity and acts as the gateway for instructors to grade my weekly tasks.
+## 1. Headings
+### This is a Level 3 Heading
 
-## Setup
-user.name=Wilfred Mutuma
-user.email=wilfredmtm@gmail.com
+## 2. Text Formatting
+This is **bold text** to show emphasis.
+This is *italic text* for styling.
+This is ~~strikethrough text~~.
 
-## Links
-- [My Live Pages Site](https://github.io)
-- [Markdown Practice File](./markdown-practice.md)
+## 3. Links
+Visit my live website here: [Wilfred's Website](https://github.io)
 
-## Week 0 Team
-- **Team / partner:** (will add teammates here later)
-- **Shared repo:** (will add the link later)
+## 4. Lists
+### Unordered List
+- HTML5
+- CSS3
+- JavaScript
+
+### Ordered List
+1. Setup environment
+2. Create repository
+3. Deploy live site
+
+## 5. Table
+
+| Tool | Purpose | Status |
+| :--- | :--- | :--- |
+| Git | Version Control | Configured |
+| VS Code | Code Editor | Installed |
+| Node.js | Runtime Environment | Installed |
+
+## 6. Task List
+- [x] Task 0.2 completed
+- [x] Task 0.3 completed
+- [x] Task 0.4 completed
+- [ ] Task 0.5 in progress
+
+## 7. Code Block
+```javascript
+console.log("Hello, World! I am learning Git.");
+```
+
+## 8. Blockquote
+> "The secret to getting ahead is getting started." — Mark Twain
