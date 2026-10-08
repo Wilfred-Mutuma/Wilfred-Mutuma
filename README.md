@@ -47,8 +47,8 @@ I am particularly interested in developing systems related to:
 ## 🔗 Links
 
 * 🌐 **GitHub:** https://github.com/Wilfred-Mutuma
-* 🖥️ **My GitHub Pages Website:** Coming soon
-* 📝 **Markdown Practice:** Coming soon
+🖥️ [My GitHub Pages Website](https://wilfred-mutuma.github.io)
+📝 [Markdown Practice](https://github.com/Wilfred-Mutuma/Wilfred-Mutuma/blob/main/markdown-practice.md)
 
 ## ⚙️ Setup
 
