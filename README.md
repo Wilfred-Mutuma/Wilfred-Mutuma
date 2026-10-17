@@ -53,8 +53,8 @@ I am particularly interested in developing systems related to:
 
 ## ⚙️ Setup
 
-My Git identity is configured with:
-Output of git config --global --list:
+Output of `git config --global --list`:
+
 ```text
 user.name=Wilfred-Mutuma
 user.email=wilfredmtm@gmail.com
