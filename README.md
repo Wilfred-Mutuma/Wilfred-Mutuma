@@ -76,6 +76,23 @@ Currently working on:
 * Pull requests
 * Issues and project boards
 
+## 🤝 Week 0 Team Collaboration
+
+**Team repository:** [Team Knowledge Base — Week 0](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13)
+
+**My pull request:** [PR #14 — Improve Git and GitHub collaboration documentation](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13/pull/14)
+
+**My issues:**
+- [Issue #10 — Improve Git and GitHub documentation](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13/issues/10)
+- [Issue #11 — Document the pull request review process](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13/issues/11)
+
+**My teammates:** [okoyo13](https://github.com/okoyo13) · [Sarahomondi85](https://github.com/Sarahomondi85)
+
+**Pull request I reviewed:**
+
+**Merge-conflict pull request:** the team resolved the merge conflict.
+
+**Pull request closing an issue:** [PR #14 — Closes #10](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13/pull/14)
 ---
 
 > 🚀 Learning step by step, building practical skills, and combining electrical engineering with technology.
