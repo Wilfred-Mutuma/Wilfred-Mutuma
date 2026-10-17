@@ -44,12 +44,13 @@ I am particularly interested in developing systems related to:
 * Web-based management systems
 * Smart technology solutions
 
-## 🔗 Links
+* ## 🔗 Links
 
-* 🌐 **GitHub:** https://github.com/Wilfred-Mutuma
-🖥️ [My GitHub Pages Website](https://wilfred-mutuma.github.io)
-📝 [Markdown Practice](https://github.com/Wilfred-Mutuma/Wilfred-Mutuma/blob/main/markdown-practice.md)
-
+- 🌐 **GitHub Profile:** [Wilfred-Mutuma](https://github.com/Wilfred-Mutuma)
+- 🖥️ **My GitHub Pages Website:** [Visit my website](https://wilfred-mutuma.github.io/)
+- 📝 **Markdown Practice:** [View my Markdown exercises](https://github.com/Wilfred-Mutuma/Wilfred-Mutuma/blob/main/markdown-practice.md)
+- 👥 **Week 0 Team Repository:** [Team Knowledge Base](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13)
+- 
 ## ⚙️ Setup
 
 My Git identity is configured with:
